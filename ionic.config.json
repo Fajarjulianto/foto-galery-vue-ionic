@@ -1,0 +1,7 @@
+{
+  "name": "Fajar-Vue-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
